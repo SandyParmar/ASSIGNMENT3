@@ -26,6 +26,3 @@ Enter a number: 25
 Square Root: 5.0
 Logarithm: 3.2188758248682006
 Sine: -0.13235175009777303
-
-
-Let me know if you'd like to **combine both parts into a single flow**, or maybe allow the user to choose which operation they want to perform.
